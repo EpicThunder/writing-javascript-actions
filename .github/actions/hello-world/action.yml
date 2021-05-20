@@ -17,11 +17,6 @@ inputs:
     description: "a third greeting"
     required: false
 
-  booleantest:
-    description: "test if boolean input can be used"
-    required: true
-    default: true
-
 runs:
   using: "node12"
   main: "main.js"
