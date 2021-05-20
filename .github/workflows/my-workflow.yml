@@ -21,5 +21,5 @@ jobs:
         uses: ./.github/actions/hello-world
         with:
           third-greeting: "boolean test"
-          boolean-test: true
+          boolean-test: false
           
