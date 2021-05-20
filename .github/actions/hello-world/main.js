@@ -10,6 +10,6 @@ console.log(`Hello ${secondGreeting}`);
 if (thirdGreeting) {
   console.log(`Hello ${thirdGreeting}`);
 }
-if (booleantest) {
+if (booleantest == true) {
   console.log(`you did not input false`);
 }
