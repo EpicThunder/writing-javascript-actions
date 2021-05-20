@@ -20,6 +20,5 @@ jobs:
       - name: hello-action
         uses: ./.github/actions/hello-world
         with:
-          third-greeting: "boolean test"
-          boolean-test: false
+          third-greeting: "boolean test fail"
           
